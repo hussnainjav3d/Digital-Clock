@@ -64,6 +64,7 @@ body {
 
 #dots {
     animation: linear 1s animate-dots infinite;
+    transition: ease-in;
 }
 
 @keyframes animate-dots {
