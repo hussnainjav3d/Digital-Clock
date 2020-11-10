@@ -62,6 +62,15 @@ body {
     transform: scale(2);
 }
 
+#date {
+    display: block;
+    position: absolute;
+    top: 20px;
+    padding: 0 40vw;
+    z-index: 1;
+    font-size: 3.2vw;
+}
+
 #dots {
     animation: linear 1s animate-dots infinite;
     transition: ease-in;
