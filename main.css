@@ -53,13 +53,13 @@ body {
     position: absolute;
     top: 20px;
     right: 25px;
-    font-size: 2vw;
+    font-size: 2.5vw;
 }
 
 #amPm:hover {
     right: 50px;
     top: 50px;
-    transform: scale(2);
+    /* transform: scale(3); */
 }
 
 #date {
